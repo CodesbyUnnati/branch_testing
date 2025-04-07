@@ -1,11 +1,10 @@
-Hi, this change is made by sebis branch
-Hi, this change is made by sebis branch
-Hi, this change is made by sebis branch
-Hi, this change is made by sebis branch
-Hi, this change is made by sebis branch
-Hi, this change is made by sebis branch
-Hi, this change is made by sebis branch
-Hi, this change is made by sebis branch
+Hi, this change is made by provider branch
+Hi, this change is made by provider branch
+Hi, this change is made by provider branch
+Hi, this change is made by provider branch
+Hi, this change is made by provider branch
+Hi, this change is made by provider branch
+Hi, this change is made by provider branch
 
 It’s important to understand that Git’s idea of a “working copy” is very different from the working copy you get by checking out source code from an SVN repository. Unlike SVN, Git makes no distinction between the working copies and the central repository—they're all full-fledged Git repositories.
 
