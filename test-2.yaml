@@ -1,0 +1,12 @@
+Now that you have a repository cloned or initialized, you can commit file version changes to it. The following example assumes you have set up a project at /path/to/project. The steps being taken in this example are:
+
+Change directories to /path/to/project
+Create a new file CommitTest.txt with contents ~"test content for git tutorial"~
+git add CommitTest.txt to the repository staging area
+Create a new commit with a message describing what work was done in the commit
+cd /path/to/project 
+echo "test content for git tutorial" >> CommitTest.txt 
+git add CommitTest.txt 
+git commit -m "added CommitTest.txt to the repo"
+After executing this example, your repo will now have CommitTest.txt added to the history and will track future updates to the file.
+
