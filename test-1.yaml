@@ -1,3 +1,12 @@
+Hi, this change is made by sebis branch
+Hi, this change is made by sebis branch
+Hi, this change is made by sebis branch
+Hi, this change is made by sebis branch
+Hi, this change is made by sebis branch
+Hi, this change is made by sebis branch
+Hi, this change is made by sebis branch
+Hi, this change is made by sebis branch
+
 It’s important to understand that Git’s idea of a “working copy” is very different from the working copy you get by checking out source code from an SVN repository. Unlike SVN, Git makes no distinction between the working copies and the central repository—they're all full-fledged Git repositories.
 
 This makes collaborating with Git fundamentally different than with SVN. Whereas SVN depends on the relationship between the central repository and the working copy, Git’s collaboration model is based on repository-to-repository interaction. Instead of checking a working copy into SVN’s central repository, you push or pull commits from one repository to another.
